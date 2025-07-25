@@ -2,7 +2,7 @@
 
 .bg-img {
   position: relative;
-  background-image: url(./images/bgmovie.jpg);
+  background-image: url(/BC85-Movie/images/bgmovie.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   overflow: hidden;
